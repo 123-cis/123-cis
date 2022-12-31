@@ -1,8 +1,25 @@
 
-<p align="center" width="500">
-<a href="https://app.daily.dev/Souad_Reda" align='center'><img src="https://api.daily.dev/devcards/0b7ca4d31a844b3b801cd01a3cd0feb5.png?r=t1u" width="300" alt="Souad Reda's Dev Card"/></a>
+<!-- <p align="center" width="900">
+
+ <img src='https://user-images.githubusercontent.com/55714960/210140483-e6eee0ad-9e32-4005-be20-5f21bd867104.png' allign='left' width=600>   <br>
+<br>
+        <a href="https://app.daily.dev/Souad_Reda" align='right'><img src="https://api.daily.dev/devcards/0b7ca4d31a844b3b801cd01a3cd0feb5.png?r=t1u" width="170" alt="Souad Reda's Dev Card"/></a>
 <br>
 </p>
+
+ -->
+<p align="center" width="900">
+ 
+<img  align="left" src="https://user-images.githubusercontent.com/55714960/210140483-e6eee0ad-9e32-4005-be20-5f21bd867104.png" width="600px" >
+<br>
+<br>
+ 
+<!-- <a  href="https://app.daily.dev/zienmo"><img src="https://api.daily.dev/devcards/41181d273f7a46c89ce78442570af882.png?r=gbw" width="170" alt="Zien Mohammed Abdelmonaem's Dev Card"/></a> -->
+ <a href="https://app.daily.dev/Souad_Reda"><img src="https://api.daily.dev/devcards/0b7ca4d31a844b3b801cd01a3cd0feb5.png?r=t1u" width="170" alt="Souad Reda's Dev Card"/></a>
+ <br>
+ <br>
+</p>
+
 <h1 align="center">
 <br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Souad Reda <img src="https://visitcount.itsvg.in/api?id=123-cis&icon=0&color=0" style="display:inline-block;margin:auto auo">
  <br>
