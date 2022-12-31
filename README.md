@@ -25,8 +25,6 @@
  <br>
 </h1>
 
-[dev]("https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" )
-
 - 🔭 I’m currently working on UI/UX project for startup.
 - 🌱 I’m currently use figma design tool.
 - 👯 I’m looking to collaborate with many developer to work in different projects .
